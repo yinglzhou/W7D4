@@ -1,12 +1,11 @@
 @use '../variables' as *;
 
 .main-nav {
-  
+
 }
 
 .left-nav > ul,
 .right-nav > ul {
-  
 }
 
 .left-nav {
@@ -18,7 +17,7 @@
   }
 
   span {
-    
+    background-color: rgb(149, 149, 216);
   }
 }
 
@@ -40,7 +39,7 @@
 
 .left-nav > ul > li:hover,
 .right-nav > ul > li:last-of-type:hover {
-  
+
 }
 
     
