@@ -1,2 +1,24 @@
 /* PHASE 1: Header */
+.header {
+    display: block;
+    background: red;
+    color: white;
+    display: block;
+}
+
+.header-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header-logo {
+
+}
+
+.header-list li {
+    display: block;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
 
